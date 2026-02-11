@@ -1,0 +1,4 @@
+- [ ] : Connect github / vercel
+- [ ] : Try the DX
+- [ ] : Test the production environnement & that everything is online
+- [ ] : Prepare a CLAUDE.MD to give project guidelines
