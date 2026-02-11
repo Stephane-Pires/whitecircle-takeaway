@@ -11,3 +11,8 @@
 
 ## Déploiement
 - Vercel est configuré pour déployer automatiquement depuis la branche main.
+
+## Constraints : 
+
+- The interface should be thinking mobile-first and responsive
+- Think about A11Y upfront
