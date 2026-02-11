@@ -28,8 +28,6 @@ export default function ChatPage() {
     }),
   });
 
-  console.log("messages", messages);
-
   const isLoading = status === "submitted" || status === "streaming";
 
   const handleSubmit = (e: React.FormEvent) => {
