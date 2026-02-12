@@ -44,7 +44,7 @@ export default function ChatPage() {
         <h1 className="text-lg font-semibold">Chat</h1>
       </header>
 
-      <ScrollArea className="flex-1 px-6 py-4">
+      <ScrollArea className="flex-1 px-6 abs py-4">
         <div className="mx-auto max w-2xl space-y-4">
           {messages.length === 0 && (
             <p className="text-center text-sm text-muted-foreground">
