@@ -26,3 +26,9 @@
 - On the FRONTEND the document should track the different pages used - keep the frontend representation to pages only. Do not go into the details of all the interaction of the components
 - On the BACKEND the document should track the different ENDPOINT, and also show the external provider used
 - Always update it if needed after each change of the code - kept it in synchronisation with the code
+
+## Testing doctrine
+
+- Create the TEST first, before the implementation, ask for subsidiaries question if what is asked is not clear
+- For the FRONTEND always create for page.tsx - The goal is mainly to get the dependencies graph and a fast view of what the pages does
+- For the BACKEND test it in ISOLATION using unit test only
