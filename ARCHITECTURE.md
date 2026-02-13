@@ -26,6 +26,7 @@ graph TD
 
 ## BACKEND
 
+
 ```mermaid
 graph TD
     Client["Client\n(ChatPage)"]
