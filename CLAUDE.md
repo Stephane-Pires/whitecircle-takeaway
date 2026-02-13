@@ -31,4 +31,4 @@
 
 - Create the TEST first, before the implementation, ask for subsidiaries question if what is asked is not clear
 - For the FRONTEND always create for page.tsx - The goal is mainly to get the dependencies graph and a fast view of what the pages does
-- For the BACKEND test it in ISOLATION using unit test only
+- For the BACKEND test it in ISOLATION using unit test only - test the various error (validation - network - server failing to answer)
